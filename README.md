@@ -50,5 +50,17 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Ép kiểu dữ liệu bằng hàm `int()` và `float()`.
   * Một số hàm toán học thông dụng: `round()` (làm tròn số), `abs()` (trị tuyệt đối), `min()`, `max()`.
 
+### 6. [KieuDuLieuVaToanTu/Chuỗi.py](file:///d:/Workspace/University/Python/KieuDuLieuVaToanTu/Chu%E1%BB%97i.py)
+* **Nội dung:** Kiểu dữ liệu chuỗi (String) và các phương thức xử lý chuỗi.
+* **Chi tiết:**
+  * Tạo chuỗi đơn dòng, đa dòng, nối chuỗi (`+`) và nhân chuỗi (`*`).
+  * Truy cập ký tự bằng chỉ mục (Indexing) và kỹ thuật cắt chuỗi (Slicing - `[start:end:step]`).
+  * Đo độ dài chuỗi bằng hàm `len()`.
+  * Các phương thức chuyển đổi định dạng chuỗi: `upper()`, `lower()`, `capitalize()`, `title()`, `strip()`, `lstrip()`, `rstrip()`.
+  * Tìm kiếm và thay thế chuỗi bằng `find()`, `count()`, `replace()`, và kiểm tra thành viên bằng từ khóa `in`.
+  * Tách và gộp chuỗi bằng phương thức `split()` và `join()`.
+  * Hiểu tính chất bất biến (immutable) của chuỗi trong Python.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
