@@ -88,8 +88,19 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Kết hợp `for`, `range()` và chỉ mục để quản lý danh sách.
   * Sử dụng hàm `enumerate()` lấy đồng thời chỉ mục (index) và giá trị của từng phần tử.
 
+### 10. [ListCoBan&For/while_va_dieu_khien_vong_lap.py](file:///d:/Workspace/University/Python/ListCoBan%26For/while_va_dieu_khien_vong_lap.py)
+* **Nội dung:** Vòng lặp `while` và các lệnh điều khiển luồng vòng lặp.
+* **Chi tiết:**
+  * Sử dụng vòng lặp `while` với biến đếm điều kiện.
+  * Phân biệt trường hợp sử dụng giữa vòng lặp `for` và `while`.
+  * Lệnh `break` để thoát khỏi vòng lặp lập tức.
+  * Lệnh `continue` để bỏ qua lần lặp hiện tại và chuyển sang lần lặp kế tiếp.
+  * Lệnh `pass` đóng vai trò là giữ chỗ (placeholder) khi chưa có mã xử lý.
+  * Kỹ thuật vòng lặp vô hạn `while True` kết hợp điều kiện thoát với `break`.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
