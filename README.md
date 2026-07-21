@@ -108,8 +108,18 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Các hàm thống kê: `len()`, `sum()`, `min()`, `max()`, và tính điểm trung bình.
   * Ví dụ ứng dụng thực tế quản lý danh sách sinh viên.
 
+### 12. [TongHopCoBan/input_nguoi_dung.py](file:///d:/Workspace/University/Python/TongHopCoBan/input_nguoi_dung.py)
+* **Nội dung:** Nhận dữ liệu đầu vào từ người dùng (User Input) và xử lý ngoại lệ.
+* **Chi tiết:**
+  * Sử dụng hàm `input()` để nhận dữ liệu từ bàn phím (mặc định luôn trả về kiểu `str`).
+  * Chuyển đổi kiểu dữ liệu (Type Casting) bằng `int()`, `float()`.
+  * Xử lý lỗi nhập sai kiểu dữ liệu với khối lệnh `try - except ValueError`.
+  * Kiểm tra chuỗi rỗng và loại bỏ khoảng trắng thừa với `.strip()`.
+  * Kiểm tra miền giá trị hợp lệ của số nhập vào.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
