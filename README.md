@@ -126,8 +126,26 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Viết tài liệu hướng dẫn Docstring (`"""..."""`) cho hàm.
   * Phân biệt hàm có `return` và hàm không có `return` (mặc định trả về `None`).
 
+### 14. [funtion/tham_so_nang_cao.py](file:///d:/Workspace/University/Python/funtion/tham_so_nang_cao.py)
+* **Nội dung:** Các loại tham số nâng cao trong hàm.
+* **Chi tiết:**
+  * Tham số mặc định (Default Parameters) và quy tắc thứ tự khai báo.
+  * Đối số theo tên (Keyword Arguments) giúp truyền tham số không phụ thuộc vị trí.
+  * Sử dụng `*args` để nhận số lượng đối số tùy ý dưới dạng `Tuple`.
+  * Giải nén danh sách/tuple (`Unpacking *nums`) trực tiếp vào lời gọi hàm.
+
+### 15. [funtion/pham_vi_bien_va_lamda.py](file:///d:/Workspace/University/Python/funtion/pham_vi_bien_va_lamda.py)
+* **Nội dung:** Phạm vi của biến (Scope) và hàm ẩn danh Lambda.
+* **Chi tiết:**
+  * Biến cục bộ (Local Scope) và biến toàn cục (Global Scope), cách thay đổi với từ khóa `global`.
+  * Quy tắc tra cứu biến LEGB (Local -> Enclosing -> Global -> Built-in).
+  * Hàm ẩn danh Lambda (Anonymous Functions) viết ngắn gọn trên 1 dòng.
+  * Ứng dụng Lambda làm `key` khi sắp xếp danh sách với `sorted()`.
+  * Kết hợp Lambda với các hàm xử lý tập hợp `map()` và `filter()`.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
